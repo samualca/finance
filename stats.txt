@@ -1,0 +1,24 @@
+================================
+Stats at 2026-02-02T20:54:38.097307
+--------------------------------
+Total income: 40000
+Income by categories:
+  Salary: 40000
+Total expense: 5000
+Expense by categories:
+  Food: 5000
+Budgets by categories:
+  Food: limit=4000, remaining=-1000
+
+================================
+Stats at 2026-02-02T20:57:18.950027
+--------------------------------
+Total income: 40000
+Income by categories:
+  Salary: 40000
+Total expense: 5000
+Expense by categories:
+  Food: 5000
+Budgets by categories:
+  Food: limit=4000, remaining=-1000
+
